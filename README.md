@@ -1,11 +1,11 @@
-# Go Module X
+# Go Program
 
-Go module X
+Go main program that imports modules A and B.
 
 ## Setup
 
-1. Run the tests
+1. Run the program.
 
    ```shell
-   go test ./...
+   go run main.go
    ```
